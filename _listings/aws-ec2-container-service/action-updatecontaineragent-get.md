@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateContainerAgent&k=1:
+  /?Action=UpdateContainerAgent:
     get:
       summary: ' Update Container Agent '
       description: Updates the Amazon ECS container agent on a specified container
@@ -32,7 +32,8 @@ paths:
         200:
           description: OK
       tags:
-      - container agents
+      - containers
+      - agents
 definitions: []
 x-collection-name: AWS EC2 Container Service
 x-streamrank:
