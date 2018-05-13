@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=PreviewAgents&k=1:
+  /?Action=PreviewAgents:
     get:
       summary: ' Preview Agents '
       description: |-
