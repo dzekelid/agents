@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS EC2 Container Service API
+  title: Amazon EC2 Container Service API Update Container Agent
   version: 1.0.0
+  description: Updates the Amazon ECS container agent on a specified container instance.
 schemes:
 - http
 produces:
