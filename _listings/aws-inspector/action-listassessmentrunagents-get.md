@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Inspector API
+  title: AWS Inspector API List Assessment Run Agents
   version: 1.0.0
+  description: |-
+    Lists the agents of the assessment runs that are specified by the ARNs of the
+             assessment runs.
 schemes:
 - http
 produces:
