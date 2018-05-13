@@ -15,9 +15,9 @@ tags:
 - Monitoring
 - Monitoring
 - API LIfeycle
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/agents/master/_listings/runscope/apis.yaml
+created: "2018-05-12"
+modified: "2018-05-12"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/runscope/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Runscope
@@ -30,7 +30,9 @@ apis:
   tags: Agents
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/agents/master/_listings/runscope/teams-teamid-agents-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/runscope/teams-teamid-agents-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/runscope/teams-teamid-agents-get-postman.md
 x-common:
 - type: x-base-url
   url: https://api.runscope.com
