@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Inspector API
+  title: AWS Inspector API Preview Agents
   version: 1.0.0
+  description: |-
+    Previews the agents installed on the EC2 instances that are part of the specified
+             assessment target.
 schemes:
 - http
 produces:
