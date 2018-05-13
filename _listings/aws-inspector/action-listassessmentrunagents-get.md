@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListAssessmentRunAgents&k=1:
+  /?Action=ListAssessmentRunAgents:
     get:
       summary: ' List Assessment Run Agents '
       description: |-
