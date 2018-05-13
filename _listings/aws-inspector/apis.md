@@ -31,7 +31,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-previewagents-get.md
+- name: AWS Inspector API List Assessment Run Agents
+  description: |-
+    Lists the agents of the assessment runs that are specified by the ARNs of the
+             assessment runs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: http:://{host}//
+  tags: Agents
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-listassessmentrunagents-get.md
 x-common:
+- type: x-documentation
+  url: http://docs.aws.amazon.com/inspector/latest/APIReference/
+- type: x-faq
+  url: https://aws.amazon.com/inspector/faqs/
+- type: x-getting-started
+  url: https://docs.aws.amazon.com/inspector/latest/userguide/inspector_quickstart.html
+- type: x-partners
+  url: https://aws.amazon.com/inspector/partners/
+- type: x-pricing
+  url: https://aws.amazon.com/inspector/pricing/
+- type: x-testimonials
+  url: https://aws.amazon.com/inspector/customers/
+- type: x-website
+  url: https://aws.amazon.com/inspector/
 - type: x-documentation
   url: http://docs.aws.amazon.com/inspector/latest/APIReference/
 - type: x-faq
