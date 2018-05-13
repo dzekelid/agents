@@ -31,17 +31,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-previewagents-get.md
-- name: AWS Inspector API List Assessment Run Agents
+- name: AWS Inspector API Preview Agents
   description: |-
-    Lists the agents of the assessment runs that are specified by the ARNs of the
-             assessment runs.
+    Previews the agents installed on the EC2 instances that are part of the specified
+             assessment target.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
   humanURL: https://aws.amazon.com/inspector/
   baseURL: http:://{host}//
   tags: Agents
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-listassessmentrunagents-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-previewagents-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/inspector/latest/APIReference/
