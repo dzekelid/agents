@@ -16,9 +16,9 @@ tags:
 - Stack Network
 - Security
 - Amazon Web Services
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/agents/master/_listings/aws-inspector/apis.yaml
+created: "2018-05-12"
+modified: "2018-05-12"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Inspector API
@@ -30,7 +30,7 @@ apis:
   tags: Agents
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/agents/master/_listings/aws-inspector/action-previewagents-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/aws-inspector/action-listassessmentrunagents-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/inspector/latest/APIReference/
