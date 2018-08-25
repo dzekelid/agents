@@ -12,389 +12,58 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - Get agent fees invoices earned
+  x-api-slug: apiinvoicefees-get
+  description: Get agent fees invoices earned.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - returns the json file containing localization for
+    the app based on a culture string, and any custom values for the agent
+  x-api-slug: apilocaleculture-get
+  description: Returns the json file containing localization for the app based on
+    a culture string, and any custom values for the agent.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - Get agent fees invoices earned
+  x-api-slug: apiinvoicefees-get
+  description: Get agent fees invoices earned.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
+- name: Dezrez.Rezi.Client.Api - returns the json file containing localization for
+    the app based on a culture string, and any custom values for the agent
+  x-api-slug: apilocaleculture-get
+  description: Returns the json file containing localization for the app based on
+    a culture string, and any custom values for the agent.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
   tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiaccountingsystemagentcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apiinvoicefees-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apilocaleculture-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apipostingcash-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptagentdeposit-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apireceiptwithdrawfunds-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/apitaxagentheld-get-openapi.md
-- name: Dezrez
-  x-api-slug: dezrez
-  description: Cloud based estate agent software , sales & letting agent software,
-    estate agent website design and property management software - Dezrez  Services
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
-  humanURL: https://www.dezrez.com
-  baseURL: https://api.dezrez.com//
-  tags: Agents
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/dezrez/openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez

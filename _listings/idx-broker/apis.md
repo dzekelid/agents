@@ -15,9 +15,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/apis.md
 specificationVersion: "0.14"
 apis:
-- name: IDX Broker
-  x-api-slug: idx-broker
-  description: idx-broker-api-calls-in-version-1-4-0required-environment-variable-url-environment-variable-for-request-headers-environment-variable-partner-key-client-account-with-at-least-one-featured-listingtests-are-in-this-order-as-variables-such-as-listing-id-and-approved-mls-are-passed-to-subsequent-api-calls-
+- name: IDX API 1.4.0 Test Runner - Get Agents
+  x-api-slug: clientsagents-get
+  description: View agent information on a multi-user account.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/idx-broker.png
   humanURL: http://www.idxbroker.com
   baseURL: https://example.com//
@@ -27,36 +27,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/clientsagents-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/clientsagents-get-openapi.md
-- name: IDX Broker
-  x-api-slug: idx-broker
-  description: idx-broker-api-calls-in-version-1-4-0required-environment-variable-url-environment-variable-for-request-headers-environment-variable-partner-key-client-account-with-at-least-one-featured-listingtests-are-in-this-order-as-variables-such-as-listing-id-and-approved-mls-are-passed-to-subsequent-api-calls-
+- name: IDX API 1.4.0 Test Runner - Get Partners Aggregated Agents
+  x-api-slug: partnersaggregatedagents-get
+  description: Get a list of all agents for your clients.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/idx-broker.png
   humanURL: http://www.idxbroker.com
   baseURL: https://example.com//
   tags: Real Estate, API Provider, Profiles, Service API, Relative Data
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/clientsagents-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/clientsagents-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/partnersaggregatedagents-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/partnersaggregatedagents-get-openapi.md
-- name: IDX Broker
-  x-api-slug: idx-broker
-  description: Based in Eugene, OR, IDX, LLC is nationally known as a leading provider
-    of real estate search applications. IDX, LLC actively manages more than $2 trillion
-    worth of active listing data from more than 600 individual Multiple Listings Services
-    (MLS). IDX, LLC provides integrated IDX software, customizable listing search
-    utilities and lead management tools for real estate based websites (IDX Broker).
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/idx-broker.png
-  humanURL: http://www.idxbroker.com
-  baseURL: https://example.com//
-  tags: Agents
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/idx-broker/openapi.md
 x-common:
 - type: x-blog
   url: https://blog.idxbroker.com/
