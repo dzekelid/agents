@@ -10,11 +10,81 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Agents
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: vRealize Operations 6 - Update EP Ops Agent
+  x-api-slug: internalagentupgrade-post
+  description: 'TODO: Add Description'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/internalagentupgrade-post-openapi.md
+- name: vRealize Operations 6 - Get Agent Status on Upgrade
+  x-api-slug: adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get
+  description: Need agent ID (token)
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get-openapi.md
+- name: vRealize Operations 6 - Update EP Ops Agent
+  x-api-slug: internalagentupgrade-post
+  description: 'TODO: Add Description'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/internalagentupgrade-post-openapi.md
+- name: vRealize Operations 6 - Get Agent Status on Upgrade
+  x-api-slug: adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get
+  description: Need agent ID (token)
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get-openapi.md
+- name: vRealize Operations 6 - Get Agent Status on Upgrade
+  x-api-slug: adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get
+  description: Need agent ID (token)
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/adapterkindsep-ops-adapterresourcekindsep-ops-agentresources-get-openapi.md
+- name: vRealize Operations 6 - Update EP Ops Agent
+  x-api-slug: internalagentupgrade-post
+  description: 'TODO: Add Description'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/internalagentupgrade-post-openapi.md
+- name: vRealize Operations 6 - Update EP Ops Agent
+  x-api-slug: internalagentupgrade-post
+  description: 'TODO: Add Description'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png
+  humanURL: http://vmware.com
+  baseURL: https://example.com//suite-api/api
+  tags: Cloud, Compute, Service API, Relative Data, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/agents/master/_listings/vmware/internalagentupgrade-post-openapi.md
 x-common:
 - type: x-blog
   url: https://blogs.vmware.com/
